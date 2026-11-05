@@ -1,0 +1,2 @@
+# lolz-bot
+private ai
